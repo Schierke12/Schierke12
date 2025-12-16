@@ -15,8 +15,8 @@
 - 🎓 Ingeniero Informático (examen final aprobado)
 - 💻 Desarrollador / Analista Junior (Backend)
 - 🧠 Interés en Inteligencia Artificial aplicada a problemas reales
-- 🔧 Experiencia con Laravel, Django y tecnologías web modernas
-- 🌱 Actualmente aprendiendo COBOL, Docker y fundamentos de Cloud
+- 🔧 Experiencia con entornos backend y conexion APIs.
+- 🌱 Actualmente aprendiendo COBOL
 - 📂 Revisa mis proyectos → <a href="https://github.com/Schierke12">GitHub</a>
 
 <br><br>
