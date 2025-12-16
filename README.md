@@ -4,10 +4,10 @@
 <br>
 
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
+**Sobre mí**
 
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+  <img align="right" src="https://media.discordapp.net/attachments/984530534082445436/1450295100931309759/303371.png?ex=69420411&is=6940b291&hm=ec610cdc652d3b21db968599f8d5e8943112321c07a937e0198d6e5a6449ea19&=&format=webp&quality=lossless&width=675&height=585" width="250px">
 </picture>
 
 <br>
@@ -23,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Habilidades </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Conocimientos </b>
 
 <p align="center">
 
