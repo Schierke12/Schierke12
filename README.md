@@ -7,7 +7,7 @@
 **Sobre mí**
 
 <picture>
-  <img align="right" src="https://ibb.co/spBYQXY1" width="250px">
+  <img align="right" src="https://i.ibb.co/cKmntsn8/303371.png" width="250px">
 </picture>
 
 <br>
